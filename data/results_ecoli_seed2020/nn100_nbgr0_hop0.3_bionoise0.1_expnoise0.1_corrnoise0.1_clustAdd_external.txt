@@ -1,0 +1,9 @@
+Regulator
+metJ
+purR
+gcvR
+gcvA
+lrp
+envY_ompT
+ompR_envZ
+crp

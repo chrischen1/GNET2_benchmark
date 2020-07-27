@@ -1,0 +1,4 @@
+node purR correlated with node lrp
+node gcvR correlated with node lrp
+node gcvA correlated with node envY_ompT
+node crp correlated with node metJ

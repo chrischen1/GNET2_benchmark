@@ -1,0 +1,7 @@
+Regulator
+RGT1
+MIG1
+MIG2
+TEC1
+SSN6_TUP1
+STE12

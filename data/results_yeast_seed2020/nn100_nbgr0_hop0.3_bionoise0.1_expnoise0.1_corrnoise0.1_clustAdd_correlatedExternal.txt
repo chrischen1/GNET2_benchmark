@@ -1,0 +1,3 @@
+node RGT1 correlated with node SSN6_TUP1
+node MIG1 correlated with node SSN6_TUP1
+node MIG2 correlated with node TEC1
